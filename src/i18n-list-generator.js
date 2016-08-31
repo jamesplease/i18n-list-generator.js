@@ -1,4 +1,4 @@
-// These are ISO-639-1 codes. For a list of them, see:
+// These are ISO 639-1 codes. For a list of them, see:
 // https://en.wikipedia.org/wiki/ISO_639-1
 const rtlCodes = ['ar', 'ur', 'fa', 'he'];
 // These languages use the reverse, upside-down "arabic" comma
