@@ -15,7 +15,19 @@
     "type": "git",
     "url": "https://github.com/jmeas/i18n-list-generator.js.git"
   },
-  "keywords": [],
+  "keywords": [
+    "i18n",
+    "l10n",
+    "internationalization",
+    "localization",
+    "lists",
+    "ltr",
+    "rtl",
+    "dynamic",
+    "string",
+    "translation",
+    "language"
+  ],
   "author": "James Smith <jellyes2@gmail.com>",
   "license": "MIT",
   "bugs": {
