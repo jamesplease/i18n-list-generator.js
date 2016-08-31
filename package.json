@@ -1,6 +1,6 @@
 {
   "name": "i18n-list-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate localized lists",
   "main": "dist/i18n-list-generator.js",
   "scripts": {
@@ -15,7 +15,19 @@
     "type": "git",
     "url": "https://github.com/jmeas/i18n-list-generator.js.git"
   },
-  "keywords": [],
+  "keywords": [
+    "i18n",
+    "l10n",
+    "internationalization",
+    "localization",
+    "lists",
+    "ltr",
+    "rtl",
+    "dynamic",
+    "string",
+    "translation",
+    "language"
+  ],
   "author": "James Smith <jellyes2@gmail.com>",
   "license": "MIT",
   "bugs": {
